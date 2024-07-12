@@ -1,0 +1,287 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\wrappers\\seleniumwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\wrappers\\seleniumwrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\wrappers\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\wrappers\\extension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\pages\\addnewuserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\pages\\addnewuserpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\menus\\adminsubmenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\menus\\adminsubmenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\enums\\adminsubmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\enums\\adminsubmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\enums\\mainnavigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\enums\\mainnavigationmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\pages\\roleslocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\pages\\roleslocators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\pages\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\pages\\manageuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\pages\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\pages\\manageusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\pages\\basepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\menus\\mainmenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\menus\\mainmenus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|c:\\users\\yanip\\source\\repos\\syncplicitytask\\syncplicitytask\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FCDA96D-9C7C-4F6D-8017-0EE0555EF97E}|SyncplicityTask\\SyncplicityTask.csproj|solutionrelative:syncplicitytask\\pages\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\.gitignore",
+              "RelativeDocumentMoniker": "SyncplicityTask\\.gitignore",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\.gitignore",
+              "RelativeToolTip": "SyncplicityTask\\.gitignore",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAgwHYAAAAAAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-07-12T12:29:31.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\UnitTest1.cs",
+              "RelativeToolTip": "SyncplicityTask\\UnitTest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwE8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T19:24:11.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\LoginPage.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\pages\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\LoginPage.cs",
+              "RelativeToolTip": "SyncplicityTask\\pages\\LoginPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:56:38.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddNewUserPage.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\AddNewUserPage.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\pages\\AddNewUserPage.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\AddNewUserPage.cs",
+              "RelativeToolTip": "SyncplicityTask\\pages\\AddNewUserPage.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAcwFUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:30:34.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Extension.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Wrappers\\Extension.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\Wrappers\\Extension.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Wrappers\\Extension.cs",
+              "RelativeToolTip": "SyncplicityTask\\Wrappers\\Extension.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:13:28.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SeleniumWrapper.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Wrappers\\SeleniumWrapper.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\Wrappers\\SeleniumWrapper.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Wrappers\\SeleniumWrapper.cs",
+              "RelativeToolTip": "SyncplicityTask\\Wrappers\\SeleniumWrapper.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:09:44.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminSubMenus.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Menus\\AdminSubMenus.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\Menus\\AdminSubMenus.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Menus\\AdminSubMenus.cs",
+              "RelativeToolTip": "SyncplicityTask\\Menus\\AdminSubMenus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:12:01.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdminSubMenu.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Enums\\AdminSubMenu.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\Enums\\AdminSubMenu.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Enums\\AdminSubMenu.cs",
+              "RelativeToolTip": "SyncplicityTask\\Enums\\AdminSubMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:28:02.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Enums\\Roles.cs",
+              "RelativeToolTip": "SyncplicityTask\\Enums\\Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T08:32:29.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RolesLocators.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\RolesLocators.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\pages\\RolesLocators.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\RolesLocators.cs",
+              "RelativeToolTip": "SyncplicityTask\\pages\\RolesLocators.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T09:21:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainMenus.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Menus\\MainMenus.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\Menus\\MainMenus.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Menus\\MainMenus.cs",
+              "RelativeToolTip": "SyncplicityTask\\Menus\\MainMenus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:08:16.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainNavigationMenu.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Enums\\MainNavigationMenu.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\Enums\\MainNavigationMenu.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\Enums\\MainNavigationMenu.cs",
+              "RelativeToolTip": "SyncplicityTask\\Enums\\MainNavigationMenu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:20:22.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BasePage.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\BasePage.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\pages\\BasePage.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\BasePage.cs",
+              "RelativeToolTip": "SyncplicityTask\\pages\\BasePage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:58:29.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ManageUsers.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\ManageUsers.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\pages\\ManageUsers.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\ManageUsers.cs",
+              "RelativeToolTip": "SyncplicityTask\\pages\\ManageUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T21:52:30.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ManageUser.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\ManageUser.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\pages\\ManageUser.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\ManageUser.cs",
+              "RelativeToolTip": "SyncplicityTask\\pages\\ManageUser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAcwBgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T21:09:21.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\MainPage.cs",
+              "RelativeDocumentMoniker": "SyncplicityTask\\pages\\MainPage.cs",
+              "ToolTip": "C:\\Users\\yanip\\source\\repos\\SyncplicityTask\\SyncplicityTask\\pages\\MainPage.cs",
+              "RelativeToolTip": "SyncplicityTask\\pages\\MainPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T19:08:02.182Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
